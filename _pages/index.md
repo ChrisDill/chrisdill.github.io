@@ -4,7 +4,9 @@ title: Chris Dill
 permalink: /
 ---
 
-# Hello there!
+<div class="group-title">
+  <h1>Hello there!</h1>
+</div>
 
 I'm a software developer interested in game development and design. Looking for opportunities to progress my career in the industry.
 
@@ -22,5 +24,5 @@ Contact me via [email](mailto:chris.rj.dill@gmail.com) if you want to get in tou
     </li>
     {% endfor %}
   </ul>
-  <a href="blog">See more posts &rarr;</a>
+  <a href="blog">View all posts &rarr;</a>
 </div>
