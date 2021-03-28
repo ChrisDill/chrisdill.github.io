@@ -10,6 +10,7 @@ permalink: /blog/
 </div>
 
 <div class="posts">
+  <h2>Posts</h2>
   <ul class="post-list">
     {%- assign date_format = "%b %-d, %Y" -%}
     {% for post in site.posts %}
