@@ -3,7 +3,7 @@ layout: post
 title: "Writing ideas down"
 author: Chris Dill
 categories: writing
-tags: [notes, reminder] 
+tags: [notes, reminder]
 ---
 
 The more I try to force myself to think of a good idea the more frustrating it is when nothing seems good. Every time I think I might have something it doesn't take long to think of all the flaws.
