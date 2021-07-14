@@ -32,10 +32,8 @@ html[data-theme="light"] {
 }
 
 /* Smaller default on large screen. */
-@media (min-width: 992px) {
-  .container {
-    width: 900px;
-  }
+.container {
+  max-width: 1000px;
 }
 
 /* General */
@@ -65,14 +63,14 @@ hr {
 
 .logo {
   border-radius: 5px;
-  width: 40px;
-  height: 40px;
-  margin-right: 0.4rem;
+  width: 42px;
+  height: 42px;
+  margin-right: 0.8em;
 }
 
 .navbar-brand {
   color: var(--headings-color) !important;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   font-weight: bold;
   padding: 0;
 }
@@ -83,6 +81,7 @@ header {
   background-color: var(--header-color);
   color: var(--font-color);
   font-family: var(--font1);
+  height: 60px;
 }
 
 nav {
@@ -91,7 +90,7 @@ nav {
 }
 
 nav li {
-  font-size: 1rem;
+  font-size: 1.1em;
   font-weight: bold;
   text-align: center;
 }
@@ -114,7 +113,7 @@ nav li a:hover {
 main {
   color: var(--font-color);
   font-size: 16px;
-  margin: 30px 0px;
+  margin: 40px 0px;
   padding: 10px;
 }
 
