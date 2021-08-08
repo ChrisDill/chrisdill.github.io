@@ -9,11 +9,13 @@ layout: page
 
 {{ content }}
 
-<section class="py-2">
+<br/>
+<section>
   {% if page.previous.url %} 
-  <a class="btn btn-primary" href={{ page.previous.url | relative_url }}>&larr; Previous</a>
+  <a href={{ page.previous.url | relative_url }}>&larr; Previous</a>
+  <span class="px-2"></span>
   {% endif %}
   {% if page.next.url %} 
-  <a class="btn btn-primary" href={{ page.next.url | relative_url }}>Next &rarr;</a>
+  <a href={{ page.next.url | relative_url }}>Next &rarr;</a>
   {% endif %}
 </section>

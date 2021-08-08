@@ -13,7 +13,7 @@ accessible. It also makes for some cool screenshots to showcase just ***how much
 
 This post will be updated with more screenshots as the project improves.
 
-You can find the source for the project [here](https://github.com/ChrisDill/raylib-instancing).
+You can find the source for the project on [github](https://github.com/ChrisDill/raylib-instancing).
 
 ## Screenshots
 
